@@ -65,8 +65,7 @@
                 if(this.elementsDOM.displayedValue.classList.contains('pin-pad__text--correct')) {
                     this.elementsDOM.displayedValue.classList.remove('pin-pad__text--correct');
                     this.elementsDOM.displayedValue.value = '';
-                    this.pinValue = '';
-                    
+                    this.pinValue = '';                    
                 }
                 
                 // Check if user already typed 4 digits but didn't click 'pin-pad__digit-done'

@@ -35,7 +35,7 @@ body {
  }
 
 .pin-pad__text--correct {
-    background-color:  var(--correct);
+    background-color:  var(--correct); 
 } 
 
 .pin-pad__text--error {
